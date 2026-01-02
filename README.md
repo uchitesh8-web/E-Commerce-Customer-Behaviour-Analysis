@@ -9,6 +9,13 @@ The objective is to transform large-scale transaction data into **actionable ins
 
 ---
 
+DashBoard Overview
+
+<img width="1328" height="742" alt="Screenshot 2025-12-23 094800" src="https://github.com/user-attachments/assets/4ae9d98e-d783-4ecb-a410-c387ce3db426" />
+
+
+---
+
 ## 🎯 Business Objectives
 
 * Measure overall sales, profit, and order volume
